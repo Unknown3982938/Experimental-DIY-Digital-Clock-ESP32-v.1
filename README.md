@@ -1,4 +1,4 @@
-# ESP32 Network Clock
+# ESP32 Digital Clock with NTP and Dual Displays
 
 A DIY ESP32-based digital clock with NTP synchronization, dual 7-segment displays, brightness auto-control, and UPS backup.
 
